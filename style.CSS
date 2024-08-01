@@ -8,3 +8,21 @@ h2{
     Width: 100%;
     text-align:center;
 }
+body {
+    background-color: lightblue;
+  }
+  h1 {
+    background-color: rgb(255, 0, 174);
+  }
+
+  h2 {
+    background-color: rgb(240, 6, 244);
+  }
+  h1 {
+    width: 300px;
+    border: 10px solid rgb(252, 0, 0);
+    padding: 50px;
+    margin: auto;
+    
+  }
+  
